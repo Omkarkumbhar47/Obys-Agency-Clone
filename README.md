@@ -1,105 +1,132 @@
-# 🎬 Obys Agency Clone — Animation Practice Project
+# 🎬 Obys Agency Clone — Advanced Animation Practice Project
 
-A front-end clone of the **Obys Agency** website created to learn and practice modern web animations, smooth scrolling, and interactive UI effects using HTML, CSS, and animation libraries.
+🌐 **Live Demo:**
+[https://omkarkumbhar47.github.io/Obys-Agency-Clone/](https://omkarkumbhar47.github.io/Obys-Agency-Clone/)
 
-🔗 **Live Demo:**
-https://omkarkumbhar47.github.io/Obys-Agency-Clone/
+📂 **Repository:**
+[https://github.com/omkarkumbhar47/Obys-Agency-Clone](https://github.com/omkarkumbhar47/Obys-Agency-Clone)
 
----
-
-## 📌 About The Project
-
-This project is a visual and interactive clone of the Obys Agency website, built purely for learning purposes.
-The main goal was to understand how high-end agency websites implement smooth scrolling, transitions, and creative animations.
-
-Through this project, I explored:
-
-* Scroll-based animations
-* Smooth scrolling effects
-* Text and element transitions
-* Layout recreation from a real-world design
-* Animation libraries integration
+👨‍💻 **Author:** Omkar Kumbhar
 
 ---
 
-## 🚀 Tech Stack
+## 📌 Overview
 
-* **HTML5**
-* **CSS3**
-* **Locomotive Scroll** – for smooth scrolling effects
-* **Shery.js** – for animation interactions
-* **Remix Icons** – for UI icons
+A front-end animation-focused clone of the Obys Agency website built to master modern web animation techniques, smooth scrolling systems, and high-end interactive UI effects.
+
+This project focuses on recreating the visual experience of a premium agency website while learning real-world animation patterns used in modern landing pages.
 
 ---
 
-## 📂 Features
+## 🎯 Purpose of the Project
 
-* Smooth scrolling experience
+High-quality agency websites rely heavily on motion design, scroll-based storytelling, and interactive transitions.
+
+This project was built to:
+
+* Understand animation-driven UI development
+* Practice smooth scrolling systems
+* Recreate complex layouts from real-world designs
+* Learn animation library integration
+* Improve frontend creativity and attention to detail
+
+---
+
+## ✨ Features
+
+* Smooth scrolling using Locomotive Scroll
 * Scroll-triggered animations
-* Clean and responsive layout
-* Interactive visual effects
-* Modern agency-style UI
+* Interactive UI transitions
+* Text reveal effects
+* Modern agency-style layout
+* Responsive design
 
 ---
 
-## 📸 Inspiration
+## 🛠️ Tech Stack
 
-This project is inspired by the original Obys Agency website and is recreated only for educational and practice purposes to improve animation and front-end skills.
+**Frontend**
+
+* HTML5
+* CSS3
+
+**Animation & Interaction**
+
+* Locomotive Scroll
+* Shery.js
+
+**UI**
+
+* Remix Icons
 
 ---
 
-## 🛠️ What I Learned
+## 📂 Project Structure
 
-* Implementing smooth scroll using Locomotive Scroll
-* Working with animation libraries
-* Structuring animated landing pages
+```
+Obys-Agency-Clone/
+│
+├── assets/
+├── fonts/
+├── index.html
+├── style.css
+├── script.js
+└── README.md
+```
+
+---
+
+## 🧠 What I Learned
+
+* Implementing smooth scroll behavior using Locomotive Scroll
+* Creating scroll-based animation triggers
+* Structuring animation-heavy landing pages
 * Enhancing UI using motion and transitions
-* Replicating real-world website layouts
+* Recreating real-world website layouts for practice
 
 ---
 
-## 📦 Project Setup
+## 🚀 Getting Started
 
-1. Clone the repository:
+### Clone the repository
 
-   ```bash
-   git clone https://github.com/omkarkumbhar47/Obys-Agency-Clone.git
-   ```
+```bash
+git clone https://github.com/omkarkumbhar47/Obys-Agency-Clone.git
+cd Obys-Agency-Clone
+```
 
-2. Open the project folder:
+### Run the project
 
-   ```bash
-   cd Obys-Agency-Clone
-   ```
+Simply open:
 
-3. Run the project:
+```
+index.html
+```
 
-   * Simply open `index.html` in your browser
+in your browser.
 
 ---
 
 ## 🌐 Deployment
 
-The project is deployed using **GitHub Pages**:
-
-https://omkarkumbhar47.github.io/Obys-Agency-Clone/
+Hosted using GitHub Pages:
+[https://omkarkumbhar47.github.io/Obys-Agency-Clone/](https://omkarkumbhar47.github.io/Obys-Agency-Clone/)
 
 ---
 
 ## ⚠️ Disclaimer
 
-This is a clone project made only for learning and educational purposes.
-All design credits belong to the original Obys Agency team.
+This project is a visual clone created strictly for learning and educational purposes.
+
+All design inspiration and credits belong to the original Obys Agency team.
 
 ---
 
-## 👨‍💻 Author
+## 👨‍💻 About Me
 
-**Omkar Kumbhar**
-Frontend Developer | Animation Enthusiast
+Omkar Kumbhar
+Full Stack Developer | MERN | React | UI Animation Enthusiast
+
+Portfolio: [https://v2-portfolio-navy.vercel.app/](https://v2-portfolio-navy.vercel.app/)
 
 ---
-
-## ⭐ Support
-
-If you liked this project, consider giving it a ⭐ on GitHub!
