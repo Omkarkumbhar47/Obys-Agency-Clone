@@ -1,7 +1,7 @@
 # 🎬 Obys Agency Clone — Advanced Animation Practice Project
 
 🌐 **Live Demo:**
-[https://omkarkumbhar47.github.io/Obys-Agency-Clone/](https://omkarkumbhar47.github.io/Obys-Agency-Clone/)
+[https://omkarkumbhar47.github.io/Obys-Agency-Clone/](https://omkarkumbhar47.github.io/obys-agency-animation-clone/)
 
 📂 **Repository:**
 [https://github.com/omkarkumbhar47/Obys-Agency-Clone](https://github.com/omkarkumbhar47/Obys-Agency-Clone)
